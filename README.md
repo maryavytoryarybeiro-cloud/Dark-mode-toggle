@@ -3,7 +3,6 @@
 Projeto simples de alternância entre **modo claro** e **modo escuro** usando **HTML**, **CSS** e **JavaScript**.
 
 ---
-
 ## Tecnologias utilizadas
 
 - HTML5
