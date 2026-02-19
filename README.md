@@ -15,8 +15,8 @@ Projeto simples de alternância entre **modo claro** e **modo escuro** usando **
 ## Funcionalidades
 
 - Alterna entre **modo claro** e **modo escuro** ao clicar no botão.
-- Mantém o estilo de forma simples e responsiva.
-- Ideal para praticar manipulação de DOM e eventos em JavaScript.
+- Estilo de forma simples.
+- Interações simples usando JavaScript.
 
 ---
 
