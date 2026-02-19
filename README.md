@@ -3,7 +3,7 @@
 Projeto simples de alternância entre **modo claro** e **modo escuro** usando **HTML**, **CSS** e **JavaScript**.
 
 ---
-## Tecnologias do projeto
+##  Tecnologias do projeto
 
 - HTML5
 - CSS3
