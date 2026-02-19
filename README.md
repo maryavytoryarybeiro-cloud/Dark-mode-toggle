@@ -12,7 +12,7 @@ Projeto simples de alternância entre **modo claro** e **modo escuro** usando **
 
 ---
 
-## Tecnologias do projeto
+## Tecnologias utilizadas
 
 - HTML5
 - CSS3
