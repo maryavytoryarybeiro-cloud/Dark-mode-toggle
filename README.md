@@ -4,7 +4,7 @@ Projeto simples de alternância entre **modo claro** e **modo escuro** usando **
 
 ---
 
-## Tecnologias utilizadas
+##Tecnologias utilizadas
 
 - HTML5
 - CSS3
